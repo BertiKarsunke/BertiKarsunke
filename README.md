@@ -1,11 +1,11 @@
 # 💫About Me :
-<h3 align="center">A passionate mobile app developer from South Korea</h3>
+<h3 align="center">A passionate fullstack developer from South Korea</h3>
 
-- 🔭 I’m currently working on **iOS application development**
+- 🔭 I’m currently working on **fullstack web,mobile application development**
 
 - 🌱 I’m currently learning **Kotlin & Kotlin Multiplatform Mobile**
 
-- 💬 Ask me about **Objective-c, Flutter**
+- 💬 Ask me about **Objective-c, Flutter, React, Spring, Swift**
 
 - 📫 How to reach me **bertikarsunke@gmail.com**
 
