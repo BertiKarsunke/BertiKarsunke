@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 -->
 
-# Lee Sungjin | Full-stack / Product Developer
+#  Yi Seong Zin (Lee Sungjin) | Full-stack / Product Developer
 
 Full-stack product developer focused on mobile apps, backend APIs, AWS infrastructure, realtime systems, data visualization, CI/CD, and workflow automation.
 
